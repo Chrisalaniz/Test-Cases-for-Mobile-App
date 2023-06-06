@@ -3,3 +3,9 @@
 
 <h2>Description</h2>
 Project consists of developing test cases for a login and a sign up page of a mobile application. 
+
+<h2>Utilities Used</h2>
+
+- <b>Google Sheets</b> 
+
+
