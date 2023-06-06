@@ -2,4 +2,4 @@
 
 
 <h2>Description</h2>
-Project consists of developing test cases for a mobile applications login and sign up pages. The test cases were written using google sheets.
+Project consists of developing test cases for a login and a sign up page of a mobile application. 
