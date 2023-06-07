@@ -1,4 +1,4 @@
-<h1>Test Cases for Mobile App Project</h1>
+<h1>Test Cases Project</h1>
 
 
 <h2>Description</h2>
